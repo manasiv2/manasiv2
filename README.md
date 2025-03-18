@@ -7,7 +7,7 @@
 [![ACS Publication](https://img.shields.io/badge/-ACS%20Publication-2f7acc?style=flat&logo=readme&link=https://pubs.acs.org/doi/abs/10.1021/jacs.2c05891)](https://pubs.acs.org/doi/abs/10.1021/jacs.2c05891)
 [![ChemRxiv Publication](https://img.shields.io/badge/-ChemRxiv%20Publication-00a8e1?style=flat&logo=readme&link=https://chemrxiv.org/engage/chemrxiv/article-details/6331eff7fee74e83a04b709d)](https://chemrxiv.org/engage/chemrxiv/article-details/6331eff7fee74e83a04b709d)
 
-I am an incoming SWE at [Arcesium](https://www.arcesium.com/) (spun out of DE Shaw) on the Corporate Technology Team. Previously, I was at [Balyasny Asset Management](https://www.bamfunds.com/about-us) on the Platform Engineering Team and at [Senseonics Inc.](https://www.senseonics.com/) on the PC Application Team and the Process Development Team. 
+I am an incoming SWE at [Arcesium](https://www.arcesium.com/) (spun out of DE Shaw) on the Corporate Technology Team. Previously, I was at [Balyasny Asset Management](https://www.linkedin.com/company/balyasny-asset-management-l.p./posts/?feedView=all) on the Platform Engineering Team and at [Senseonics Inc.](https://www.senseonics.com/) on the PC Application Team and the Process Development Team. 
 
 Outside of this, I like art — check out some of my work on my [Medium](https://medium.com/@manasivaidya) page!
 
