@@ -1,6 +1,6 @@
 # Hi I'm Manasi 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-manasivaidya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manasi-vaidya/)](https://www.linkedin.com/in/manasi-vaidya/)
+[![Linkedin Badge](https://img.shields.io/badge/-manasivaidya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manasi-vaidya/)](https://www.linkedin.com/in/manasi-vaidya-5a6526192/)
 [![Medium Badge](https://img.shields.io/badge/-@manasivaidya-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@manasivaidya)](https://medium.com/@manasivaidya)
 [![Instagram Badge](https://img.shields.io/badge/-@manasivaidya__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/manasivaidya__?igsh=bnU4NG9vYW5icmF3&utm_source=qr)](https://www.instagram.com/manasivaidya__?igsh=bnU4NG9vYW5icmF3&utm_source=qr)
 [![Gmail Badge](https://img.shields.io/badge/-manasiv2@illinois.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manasiv2@illinois.edu)](mailto:manasiv2@illinois.edu)
