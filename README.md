@@ -12,18 +12,21 @@ I am an incoming SWE at [Arcesium](https://www.arcesium.com/) (spun out of [DE S
 Outside of this, I like art — check out some of my work on my [Medium](https://medium.com/@manasivaidya) page!
 
 **My typical technology stack involves:**  
-![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)
-![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)
-![SQL](https://img.shields.io/badge/-SQL-black?logo=postgresql&style=social)
-![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonaws&style=social)
-![Azure](https://img.shields.io/badge/-Azure-black?logo=microsoftazure&style=social)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
-![Airflow](https://img.shields.io/badge/-Airflow-black?logo=apacheairflow&style=social)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)
-![Terraform](https://img.shields.io/badge/-Terraform-black?logo=terraform&style=social)
-![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
+<br>
+
+<img src="https://img.shields.io/badge/-Python-black?logo=python&style=flat-square" height="30"> 
+<img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/-SQL-black?logo=postgresql&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/-AWS-black?logo=amazonaws&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/-Azure-black?logo=microsoftazure&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/-Docker-black?logo=docker&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/-Airflow-black?logo=apacheairflow&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/-Terraform-black?logo=terraform&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/-Linux-black?logo=linux&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/-Git-black?logo=git&style=flat-square" height="30">
+
 
 ---
 
