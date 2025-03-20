@@ -9,7 +9,7 @@
 😊 It's nice to meet you! Here is a little bit about me <br>
 🛠️ I am an incoming SWE at [Arcesium](https://www.arcesium.com/) (spun out of [DE Shaw](https://www.deshaw.com/)) on the Corporate Technology Team <br>
 ⚙️ Previously, I was at [Balyasny Asset Management](https://www.linkedin.com/company/balyasny-asset-management-l.p./posts/?feedView=all) on the Platform Engineering Team <br>
-🚀 Prior to that I worked at [Senseonics Inc.](https://www.senseonics.com/), on the Process Development Team and PC Applications Team for a total of 2 years while in college <br>
+🚀 Prior to that I worked at [Senseonics Inc.](https://www.senseonics.com/), on the Process Development Team and PC Applications Team for 2 years while in college <br>
 🎓 I started college as a Chemical Engineer and tried coding for the first time my freshman year <br>
 🏅 I switched my major halfway through college and graduated with a BS in Computer Science + Chemistry <br>
 🎨 Outside of tech, I enjoy painting (acrylic and water-color), lifting, and running — you can find some of my art on my [Medium](https://medium.com/@manasivaidya) page <br>
