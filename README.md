@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-manasiv2@illinois.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manasiv2@illinois.edu)](mailto:manasiv2@illinois.edu)
 [![ACS Publication](https://img.shields.io/badge/-ACS%20Publication-2f7acc?style=flat&logo=readme&link=https://pubs.acs.org/doi/abs/10.1021/jacs.2c05891)](https://pubs.acs.org/doi/abs/10.1021/jacs.2c05891)
 [![ChemRxiv Publication](https://img.shields.io/badge/-ChemRxiv%20Publication-00a8e1?style=flat&logo=readme&link=https://chemrxiv.org/engage/chemrxiv/article-details/6331eff7fee74e83a04b709d)](https://chemrxiv.org/engage/chemrxiv/article-details/6331eff7fee74e83a04b709d)
-
+😊 It's ice to meet you! Here is a little bit about me
 🛠️ I am an incoming SWE at [Arcesium](https://www.arcesium.com/) (spun out of [DE Shaw](https://www.deshaw.com/)) on the Corporate Technology Team <br>
 ⚙️ Previously, I was at [Balyasny Asset Management](https://www.linkedin.com/company/balyasny-asset-management-l.p./posts/?feedView=all) on the Platform Engineering Team <br>
 🚀 Prior to that I worked at [Senseonics Inc.](https://www.senseonics.com/), on the Process Development Team and PC Applications Team for a total of 2 years while in college <br>
