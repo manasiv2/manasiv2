@@ -14,24 +14,23 @@ Outside of this, I like art — check out some of my work on my [Medium](https:/
 **My typical technology stack involves:**  
 <br>
 
-<table>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30"><br>Python</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="30"><br>C++</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="30"><br>SQL</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30"><br>AWS</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="30"><br>Azure</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="30"><br>Kubernetes</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="30"><br>Docker</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="30"><br>Java</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="30"><br>Jenkins</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="30"><br>Terraform</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="30"><br>Linux</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="30"><br>Git</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40"> Python &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40"> C++ &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40"> SQL &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40"> AWS &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="40"> Azure &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="40"> Kubernetes
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="40"> Docker &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40"> Java &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="40"> Jenkins &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="40"> Terraform &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40"> Linux &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="40"> Git
+</p>
 
 ---
 
