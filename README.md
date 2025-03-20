@@ -1,15 +1,16 @@
-# Hi I'm Manasi 👋
+# Hey, I'm Manasi 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-manasivaidya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manasi-vaidya/)](https://www.linkedin.com/in/manasi-vaidya-5a6526192/)
 [![Medium Badge](https://img.shields.io/badge/-@manasivaidya-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@manasivaidya)](https://medium.com/@manasivaidya)
-[![Instagram Badge](https://img.shields.io/badge/-@manasivaidya__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/manasivaidya__?igsh=bnU4NG9vYW5icmF3&utm_source=qr)](https://www.instagram.com/manasivaidya__?igsh=bnU4NG9vYW5icmF3&utm_source=qr)
 [![Gmail Badge](https://img.shields.io/badge/-manasiv2@illinois.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manasiv2@illinois.edu)](mailto:manasiv2@illinois.edu)
 [![ACS Publication](https://img.shields.io/badge/-ACS%20Publication-2f7acc?style=flat&logo=readme&link=https://pubs.acs.org/doi/abs/10.1021/jacs.2c05891)](https://pubs.acs.org/doi/abs/10.1021/jacs.2c05891)
 [![ChemRxiv Publication](https://img.shields.io/badge/-ChemRxiv%20Publication-00a8e1?style=flat&logo=readme&link=https://chemrxiv.org/engage/chemrxiv/article-details/6331eff7fee74e83a04b709d)](https://chemrxiv.org/engage/chemrxiv/article-details/6331eff7fee74e83a04b709d)
 
-I am an incoming SWE at [Arcesium](https://www.arcesium.com/) (spun out of [DE Shaw](https://www.deshaw.com/)) on the Corporate Technology Team. Previously, I was at [Balyasny Asset Management](https://www.linkedin.com/company/balyasny-asset-management-l.p./posts/?feedView=all) on the Platform Engineering Team and at [Senseonics Inc.](https://www.senseonics.com/) on the PC Applications Team and the Process Development Team. 
-
-Outside of tech, I enjoy painting (acrylic and water-color) — check out some of my work on my [Medium](https://medium.com/@manasivaidya) page!
+🛠️ I am an incoming SWE at [Arcesium](https://www.arcesium.com/) (spun out of [DE Shaw](https://www.deshaw.com/)) on the Corporate Technology Team. 
+⚙️ Previously, I was at [Balyasny Asset Management](https://www.linkedin.com/company/balyasny-asset-management-l.p./posts/?feedView=all) on the Platform Engineering Team 
+🚀 Prior to that I worked at [Senseonics Inc.](https://www.senseonics.com/), as an intern on the Process Development and PC Applications Teams and continued working there for 2 years part-time during college
+🎓 I started out as a Chemical Engineer in college and picked up coding in college. I switched my major halfway through college and graduated with a BS in Computer Science + Chemistry
+🎨 Outside of tech, I enjoy painting (acrylic and water-color), lifting, and running — you can find some of my art on my [Medium](https://medium.com/@manasivaidya) page
 
 **My typical technology stack involves:**  
 <br>
