@@ -9,7 +9,7 @@
 
 I am an incoming SWE at [Arcesium](https://www.arcesium.com/) (spun out of [DE Shaw](https://www.deshaw.com/)) on the Corporate Technology Team. Previously, I was at [Balyasny Asset Management](https://www.linkedin.com/company/balyasny-asset-management-l.p./posts/?feedView=all) on the Platform Engineering Team and at [Senseonics Inc.](https://www.senseonics.com/) on the PC Applications Team and the Process Development Team. 
 
-Outside of this, I like art — check out some of my work on my [Medium](https://medium.com/@manasivaidya) page!
+Outside of tech, I enjoy painting (acrylic and water-color) — check out some of my work on my [Medium](https://medium.com/@manasivaidya) page!
 
 **My typical technology stack involves:**  
 <br>
