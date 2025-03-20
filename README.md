@@ -14,19 +14,18 @@ Outside of this, I like art — check out some of my work on my [Medium](https:/
 **My typical technology stack involves:**  
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Apache_Airflow_Logo.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg" height="40">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="40">  
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30"> **Python**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="30"> **C++**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="30"> **SQL**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30"> **AWS**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="30"> **Azure**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="30"> **Kubernetes**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="30"> **Docker**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Apache_Airflow_Logo.svg" height="30"> **Airflow**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo.svg" height="30"> **Jenkins**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="30"> **Terraform**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg" height="30"> **Linux**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="30"> **Git**  
 
 ---
 
