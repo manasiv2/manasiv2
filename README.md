@@ -22,8 +22,8 @@ Outside of this, I like art — check out some of my work on my [Medium](https:/
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="30"> Azure &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="30"> Kubernetes &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="30"> Docker &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_Airflow_logo.svg" height="30"> Airflow &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo.svg" height="30"> Jenkins &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apache_Airflow_logo.svg" height="30"> Airflow &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="30"> Jenkins &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="30"> Terraform &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="30"> Linux &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="30"> Git
